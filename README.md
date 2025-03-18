@@ -1,4 +1,4 @@
-# C3D: Action Recognition with 3D Convolutional Networks
+# C3D Optimization for Spatio-Temporal Action Recognition
 
 This repository implements the **C3D** (Convolutional 3D) model for action recognition, as proposed in the paper ["C3D: Generic Features for Video Analysis"](https://arxiv.org/abs/1412.0767). The C3D model uses 3D convolutions to extract spatial and temporal features from videos and is widely used for action recognition tasks in video analysis.
 
